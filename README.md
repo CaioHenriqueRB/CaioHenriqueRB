@@ -15,6 +15,7 @@ Tenho um pé na programação e outro no empreendedorismo — minha missão é c
 
 🧠 Atualmente estudando:
 
+- Linguagem C
 - Banco de dados
 - Varejo, métricas de vendas e estoque
 - Estratégias de validação de ideias e MVPs
