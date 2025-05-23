@@ -8,7 +8,7 @@ Tenho um pé na programação e outro no empreendedorismo. Minha missão é cria
 
 - Python, Dash, Flask
 - HTML, CSS, JS
-- Visão computacional com OpenCV
+- Visão computacional
 - Automação com Selenium e n8n
 - Monitoramento de sistemas de educação e BI
 - MVPs para produtos digitais e SaaS
