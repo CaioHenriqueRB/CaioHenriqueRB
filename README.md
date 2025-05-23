@@ -4,7 +4,7 @@ Sou movido por desafios que conectam tecnologia e **impacto real**. Minha jornad
 
 Tenho um pé na programação e outro no empreendedorismo. Minha missão é criar ferramentas que resolvam dores reais, de forma escalável e acessível. Acredito em código limpo, propósito claro e em **aprender rápido com os erros**.
 
-### Confira meus projetos [aqui](https://caiobarreto.netlify.app/)
+### Saiba mais sobre meus projetos [aqui](https://caiobarreto.netlify.app/)
 
 🚀 Atualmente estou Explorando:
 
