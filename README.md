@@ -1,4 +1,4 @@
-Olá, meu nome é **Caio Barreto** 👨🏻‍💻
+### Olá, meu nome é **Caio Barreto** 👨🏻‍💻
 
 Sou movido por desafios que conectam tecnologia e **impacto real**. Minha jornada começou no interior de Goiás e me levou a explorar muito mais que código: **soluções que transformam**. Atuo em projetos que envolvem automações, dashboards com dados reais, micro-SaaS, visão computacional e web.
 
