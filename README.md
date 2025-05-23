@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=0FB1F7&repeat=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Caio+Barreto+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
-
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=0FB1F7&repeat=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Caio+Barreto+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://github.com/CaioHenriqueRB)
 Sou movido por desafios que conectam tecnologia e **impacto real**. Minha jornada começou no interior de Goiás e me levou a explorar muito mais que código: **soluções que transformam**. Atuo em projetos que envolvem automações, dashboards com dados reais, micro-SaaS, visão computacional e web.
 
 Tenho um pé na programação e outro no empreendedorismo. Minha missão é criar ferramentas que resolvam dores reais, de forma escalável e acessível. Acredito em código limpo, propósito claro e em **aprender rápido com os erros**.
