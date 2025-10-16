@@ -3,8 +3,6 @@ Sou movido por desafios que conectam tecnologia e **impacto real**. Minha jornad
 
 Tenho um pé na programação e outro no empreendedorismo. Minha missão é criar ferramentas que resolvam dores reais, de forma escalável e acessível. Acredito em código limpo, propósito claro e em **aprender rápido com os erros**.
 
-### Saiba mais sobre meus projetos em [https://caiobarreto.netlify.app](https://caiobarreto.netlify.app/)
-
 🚀 Atualmente estou Explorando:
 
 - Python, Dash, Flask
