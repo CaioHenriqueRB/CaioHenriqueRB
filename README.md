@@ -9,7 +9,7 @@ Tenho um pé na programação e outro no empreendedorismo. Minha missão é cria
 - Automação com Selenium e n8n
 
 🧠 Estudos:
-- Linguagem C
+- Linguagem C e C++
 - Banco de dados
 - Estratégias de validação de ideias e MVPs
 
